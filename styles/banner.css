@@ -30,9 +30,6 @@
     font-weight: 400;
     text-align: center;
     color: var(--branco);
-    background-image: url("../assets/Pesquisa.svg");
-    background-repeat: no-repeat;
-    background-position: 1.5em;
 }
 
 @media screen and (min-width: 1024px) {
